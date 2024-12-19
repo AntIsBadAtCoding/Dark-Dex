@@ -5,7 +5,6 @@
 	Modified for Infinite Yield
 	
 	Dex is a debugging suite designed to help the user debug games and find any potential vulnerabilities.
-  was not made by me
 ]]
 
 local nodes = {}
